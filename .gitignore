@@ -1,0 +1,12 @@
+env/
+__pycache__/
+*.pyd
+*.dll
+*.lib
+*.exe
+*.zip
+*.tar.gz
+*.whl
+*.log
+*.ckpt
+*.h5

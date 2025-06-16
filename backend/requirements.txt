@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+passlib[bcrypt]
+jwt
+torch
+torchvision
+numpy
+pillow
